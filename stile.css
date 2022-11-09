@@ -1,0 +1,77 @@
+h1{
+	background-color: #85e085;
+	margin-left: 10px;
+	text-shadow: 1px 1px 2px black;
+	text-align: center;
+	border-bottom-style: solid;
+	border-color: green;
+	padding: 10px;
+	border-radius: 7px;
+	font-family: "Lucida Console";
+}
+h2{
+	text-align: center;
+	color: green;
+	border-bottom-style: dotted;
+	border-color: #99ff99;
+	font-family: "Lucida Console";
+}
+h5{
+	font-family: "Lucida Console";
+}
+body, .sfondo{
+	background-color: #ccffcc;
+} 
+header{
+	background-color: #f2f2f2;
+}
+footer{
+	background-color: white;
+}
+.breadcrumb{
+	background-color: white;
+	text-align: left;
+	margin-left: 30px;
+	margin-right: 30px;
+	border-radius: 10px;
+}
+.card, .card-body, .list-group-item{
+	background-color: #f2f2f2;
+}
+.card-header{
+	color: green;
+}
+.card-text{
+	text-align: center;
+}
+.navbar{
+	width: 100%;
+}
+.unesco{
+	margin-left: auto;
+	margin-right: 50px;
+	margin-top: auto;
+	margin-bottom: auto;
+}
+.wiki,.pag-numerate, .descrizione{
+	margin-left: 20px;
+	margin-right: 20px;
+}
+.wiki{
+	text-align: center;
+}
+.tx-colorato{
+	color: green;
+}
+.alert{
+	margin-right: 20px;
+}
+.name{
+	color: green;
+}
+.name, .data, .luogo{
+ 	font-style: italic;
+}
+.xml{
+	margin-left: 50px;
+}

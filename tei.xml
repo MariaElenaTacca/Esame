@@ -1,0 +1,92 @@
+<TEI xmlrs="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>	
+				<title>Dizionario Biografico degli Italiani - volume 38 - D'ENRICO, Giovanni: edizione digitale.</title>
+				<author xml:id="GR">Giorgio Romano</author>
+				<editor xml:id="T">Istituto della Enciclopedia Italiana fondata da Giovanni Treccani S.p.A.</editor>
+				<respStmt>
+					<resp>annotation</resp>
+					<name xml:id="MET">Maria Elena Tacca</name>
+				</respStmt>
+			</titleStmt>
+
+			<publicationStmt>
+				<publisher>Istituto della Enciclopedia Italiana fondata da Giovanni Treccani S.p.A.</publisher>
+				<address>
+					<name type="institution">Istituto della Enciclopedia Italiana fondata da Giovanni Treccani S.p.A. </name>
+					<street>Piazza della Enciclopedia Italiana, 4</street>
+					<name type="city">Roma</name>
+					<name type="country">Italy</name>
+				</address>
+				<availability>
+					<p>Tutti i diritti riservati</p>
+				</availability>
+			</publicationStmt>
+
+			<sourceDesc>
+			<p>Dizionario Biografico degli Italiani, Volume 38, Giorgio Romano, 1990.
+			</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	
+	<text>
+		<body>
+			<head>D'ENRICO, Giovanni
+			</head>
+			<p n="1">Figlio di <name type="person">Giovanni il Vecchio</name> (cfr. in questo <hi rend="italic">Dizionario</hi> la voce D'Enrico, famiglia), nacque probabilmente a <name type="place">Riale di Alagna Valsesia (Vercelli)</name>, intorno al <date when="1559">1559</date>. L'anno è determinato induttivamente dall'atto di morte, che lo dice di ottantacinque anni, e dal fatto che il <choice><abbr type="name">D.</abbr><expan>D'Enrico</expan></choice> fa la sua prima comparsa come maggiorenne emancipato in un contratto del <date when="1585-06-05">5 giugno 1586</date>: a tale data <quote><name type="person">Enrico</name>, il <abbr>D.</abbr> e <name type="person">Giacomo</name>, figli del defunto <name type="person">Giovanni D'Enrico</name> <name type="place">"del Riale di Alagna"</name>, si impegnarono alla costruzione della cappella degli Innocenti (XI) al Sacro Monte di Varallo</quote> (per tutti i docc., se non diversamente indicato, cfr. <name type="person">Galloni</name>, <date when="1914">1914</date>). La costruzione fu in breve tempo ultimata perché il <choice><sic>7 maggio 15910</sic><corr resp="#MET"><date when="1591-05-07">7 maggio 1591</date></corr></choice> fabbricieri del <name type="place">Sacro Monte</name> incaricarono della decorazione pittorica <name type="person">G. B. Della Rovere (Fiamminghino)</name>.</p>
+
+			<p n="2">In questi primi anni di attività il D. non sembra aver abbandonato la residenza ad Alagna, dove battezzò quasi tutti i figli avuti dalla moglie Caterina Farinetti: 13 sett. 1595 "Joannes", 8 marzo 1597 "Catharina", 7 sett. 1598 "Catharina", 13 giugno 1600 "Catharina", 16 ott. 1602 "Maria"; cfr. Bodo-Viazzo, 1984.Ricompare al Sacro Monte di Varallo il 16 dic. 1605 (come semplice testimone di un atto amministrativo), ma è assai probabile che a quella data fosse già iniziata la sua attività di scultore del Sacro Monte; poco dopo allude verosimilmente a lui e al fratello Melchiorre il Vecchio una lettera del vescovo di Novara, Carlo Bascapè, datata 14 sett. 1607 (Stefani Perrone, 1984, p. 133). Tra il 1608 e il 1609 venivano portate a termine le statue dell'Orazione nell'orto (XXI), dei Tre discepoli dormienti (XXII) e della Coronazione di spine (XXXI) cui seguì, in immediata successione, il grandioso gruppo di statue per la cappella dell'Ecce Homo (XXXIII). In quest'ultima cappella sono state di recente rilevate la data 1611 e la firma del fratello e collaboratore Melchiorre il Vecchio (Romano, 1982, p.265; Bossi, 1986, p. 15).</p>
+
+			<p n="3">Un documento del 10 genn. 1608, riguardante il coro della chiesa di S. Martino a Roccapietra, ci assicura che il D. non abbandonò la professione di capomastro e di architetto; l'anno successivo, il 19 luglio 1609, con Bartolomeo Revelli, suo giovane collaboratore, risulta pagato per disegni relativi alla nuova planimetria dei Sacro Monte e alla costruenda chiesa dell'Assunta; il suo nome compare per le stesse opere nelle delibere del 7 apr. 1614 (Stefani Perrone, 1984, p. 133; ma Galloni, 1914, p. 294, indica la data del 16 maggio), che riguardano anche la cappella di Cristo davanti a Caifa (XXV) e il portico della cappella dei Magi (V). L'ampio credito guadagnato dal D. presso la fabbriceria del Sacro Monte e le dimensioni della sua fortuna economica sono evidenziati dal testamento del 14 luglio 1609 e da un prestito di 1.000 lire che egli ricevette in data 13 genn. 1611e che non risulta restituito in un rendiconto di Giacomo Ferro, in data 5 luglio 1647.</p>
+
+			<p n="4">Del 23 febbr. 1616 è un pagamento disposto in favore del D. quale "statuario dei Sacro Monte", carica che non rendeva più necessari specifici contratti di lavoro riguardanti ciascuna cappella; per misurare l'ampliarsi della sua presenza al Sacro Monte dobbiamo quindi ricorrere alle osservazioni dei vescovi in visita pastorale. Il 14 sett. 1617 il cardinale F. Taverna constatava che nella cappella della Prima presentazione di Cristo a Pilato (XXVII) le statue erano già state approntate dal D., mentre la decorazione ad affresco (per mano del fratello Antonio, detto Tanzio) non era ancora stata del tutto terminata. Anche la cappella di Pilato che si lava le mani (XXXIV, statue del D., affreschi di Antonio) e quella della Cattura di Cristo (XXIII, statue del D., affreschi del fratello Melchiorre) erano ormai in corso d'opera, il che equivale a dire che i tre fratelli D'Enrico (Giovanni, Melchiorre e Antonio detto Tanzio) dominavano l'intero cantiere del Sacro Monte, grazie al fatto che il fratello maggiore (il D. appunto) era diventato anche l'accorto regista della nuova ristrutturazione urbanistica del santuario, intorno alla piazza dei Tempio e alla piazza dei Tribunali (Stefani Perrone, 1984). In parallelo a quella del fratello minore Antonio la fama del D. superava i confini della Valsesia e già il 22 maggio 1621 gli amministratori del Sacro Monte di Oropa decidevano <cit>"che si debbano accettare li statuari di Varale ... con questo però ch'un d'essi fratelli statuari sia mastro Giovanni"</cit> (Trompetto, 1978, p. 293). Iniziò da questa data l'attività del D. ad Oropa, insieme con il fratello Melchiorre il Vecchio, che durò fino al 1640, seppure con presenze intermittenti.</p>
+
+			<p n="5">I primi lavori non sono documentati con precisione (ad esempio quelli della cappella del Trasporto, forse ancora degli anni '20 del secolo), mentre sono espliciti i pagamenti per le cappelle dell'Incoronazione della Vergine (1633-1639), dell'Immacolata (1635-1638), delle Nozze di Cana (1639-1640) e dello Sposalizio della Vergine (1640; Trompetto, 1978, pp. 279-283, 265 s., 287, 276, 271). Dal 1630 il D. e Melchiorre furono attivi al Sacro Monte d'Orta, spesso accompagnati da altri collaboratori, tra cui spicca Giacomo Ferro.</p>
+
+			<p n="6">I pagamenti documentati riguardano la cappella XI, della Porziuncola (1630), la cappella VII, della Conferma della regola (1630-1634), la cappella VIII, del Carro di fuoco (1638), e la cappella IX, della Vestizione di s. Chiara (1642), dove collaborò anche Giacomo Ferro (Melzi d'Eril, 1977, Debiaggi, 1982).</p>
+
+			<p n="7">Dato l'estendersi della attività di statuario del D., è presumibile che ne abbiano risentito i lavori al Sacro Monte di Varallo: qui, il 28 luglio 1619, i fabbricieri lo incaricavano di realizzare le statue della cappella di Re Erode (XXVIII), che fu affrescata dal fratello Antonio, e il 4 ott. 1627 gli furono affidate le statue nella cappella del Cristoinchiodato alla croce (XXXVII), affrescata assai più tardi da Melchiorre Gherardini. Il vescovo di Novara Giovan Pietro Volpi, in visita pastorale il 22 ag. 1628, notò la mancanza di statue. nella cappella della Seconda presentazione di Cristo a Pilato (XXIX) e in quelle della Salita al Pretorio (XXXII) e di Cristo inchiodato alla croce (XXXVII), mentre erano già state terminate le statue delle cappelle di Re Erode (XXVIII) e di Caifa (XXV). Con il terzo decennio del secolo il ritmo dei lavori al Sacro Monte di Varallo cominciò a rallentare (non per nulla il D. accettò le offerte che gli provenivano da fuori della Valsesia) e abbiamo notizia di altri suoi lavori a Varallo solo nel 1638, quando eseguì la statua di Bernardino Caimi sotto il portico presso il Santo Sepolcro, su commissione di un discendente del Caimi stesso (Galloni, 1873, p. 177 n. 3), e accettò l'incarico di lavorare alle statue del Cristo inchiodato alla croce (cappella XXXVII) "fin che può lavorare tali statue" (12 sett. 1638). Prossimo ormai agli ottant'anni, gli interventi diretti del D. nel lavoro cominciarono a diradarsi, mentre collaborò sempre più attivamente con lui Giacomo Ferro.</p>
+
+			<p n="8">Il peso dell'età e la necessità di mettere ordine in una situazione professionale ed economica fattasi molto complessa suggerirono al D. una serie di rendiconti con se stesso, i propri committenti e i propri collaboratori che costellano in modo commovente gli ultimi suoi anni di vita. Non possediamo il testamento del 7 apr. 1635, richiamato da quello del 30 genn. 1644, ma il rendiconto dei crediti in data 12 maggio 1640, allegato da Giacomo Ferro il 5 luglio 1647, consente di misurare la sterminata quantità di statue prodotta negli ultimi anni dal maestro valsesiano: per la cappella di Erode (XXVIII), per la Seconda presentazione di Cristo a Pilato (XXIX), per il Cristo inchiodato alla croce (XXXVII), per la Deposizione dalla croce (XXXIX), per la Pietà (XL) e per altre cappelle minori. Due anni più tardi, il 29 marzo 1642, il D. formalizzò la sua società di lavoro con Giacomo Ferro, cui spettava la metà di ogni compenso, tanto per i lavori di Varallo "quam aliarum Ecclesiarum coeterorum locorum scilicct civitatuin et borgorum". Non si allude evidentemente solo ai Sacri Monti di Oropa e di Orta, ma anche ad altre opere che gli studiosi si sono sforzati di riconoscere al D. (ad esempio alcune statue già nel battistero di Novara e ora presso la Pinacoteca di Varallo). Un esempio finora sfuggito sembra essere la bella Madonna in terracotta conservata nella sacrestia della parrocchiale dell'Assunta a Nebbione, in diocesi di Biella (Lebole, 1980).</p>
+
+			<p n="9">L'ultimo saldo per lavori al Sacro Monte di Varallo cade il 7 genn. 1643, quando con tutta verosimiglianza il D. aveva ormai trasferito la sua residenza a Borgosesia, presso la figlia Cristina, sposata a Michelangelo Bianchetti; qui la sua straordinaria vitalità gli consentì ancora di assistere il proprio socio Giacomo Ferro attivo al santuario di Montrigone, ma nulla di autografo sembra riconoscibile nelle statue ivi conservate.</p>
+
+			<p n="10">A Borgosesia dettò il suo ultimo testamento, il 30 genn. 1644, e morì poco dopo, il 7 febbraio (Debiaggi, 1978-1980, pp. 131 s.). Come si è detto, importanti informazioni sulla sua ultima attività si ricavano da un rendiconto per reclamo di pagamenti presentato da Giacomo Ferro alla fabbriceria del Sacro Monte di Varallo in data 5 luglio 1647.</p>
+
+			<p n="11">Un organico profilo stifistico del D. stenta ancora oggi a definirsi per le materiali difficoltà di lettura in cuì sì trova la maggior parte della sua produzione (spesso manomessa da restauri e da ridipinture sfiguranti), per l'intervento di collaboratori (ampiamente documentato) e per lo scarso impegno con cui finora si è provato a controllare una eventuale evoluzione stilistica sulla traccia della seriatura cronologica delle opere. Il problema è di particolare delicatezza perché in alcuni periodi della vita del Sacro Monte di Varallo non ci si è fatto  scrupolo di spostare, sostituire, integrare statue nuove o di recupero in contesti già terminati. Questo spiegherebbe perché la Brizio (1962, p. 110) abbia potuto identificare un bellissimo cavaliere del D. nella cappella della Salita al Calvario (XXXVI), le cui statue erano state commissionate, il 17 apr. 1599, a Giovanni Wespin, detto Tabacchetti; non si può pensare che si tratti di un'opera giovanile del D., come allievo del Wespin stesso, perché vi si riconosce un chiaro rapporto con le invenzioni pittoriche del fratello Antonio intorno al 1620.</p>
+
+			<p n="12">Per una ricerca futura non si possono qui fornire che poche indicazioni di massima. La plausibile attribuzione al D. della Madonna delle Grazie nell'oratorio delle Grazie a Campertogno (Testori-Stefani Perrone, 1985) comporta di necessità la definizione di un iter stilistico che, già nell'ultimo decennio del Cinquecento, ha caratteri specifici di affettuosa attenzione alla realtà naturale, ma che conserva i segni di una raffinata cultura manierista, profondamente assimilata; tale cultura era divulgata al Sacro Monte di Varallo dall'équipe di artisti che faceva capo al perugino Domenico Alfani. I rapporti sono particolarmente stringenti con uno scultore, finora anonimo, che si riconosce in alcune statue delle cappelle IX (Sogno di Giuseppe), XII (Battesimo di Cristo) e XIV (Samaritana al pozzo), e con le stupefacenti cariatidi lignee sulla facciata della cappella dell'Ecce Homo (XXXIII), di cui andrebbero verificate la data e l'attribuzione. Nell'ultimo decennio dei Cinquecento la cultura figurativa del D. non sarebbe dunque molto diversa, salvo una più delicata sensibilità formale e umana, da quella dimostrata dal fratello Melchiorre nell'affresco di Riva Valdobbia, datato 1597. Un secondo tempo dello stile del D., in qualche misura non indifferente ai modelli forniti dal Wespin nella cappella della Salita al Calvario (XXXVI), sembra potersi riconoscere nelle opere del primo decennio del Seicento, almeno fino alla cappella dell'Ecce Homo (XXXIII). Anche in questo caso il coinvolgimento di Melchiorre di Giovanni rende difficile ogni selezione, tanto più importante per poter poi leggere le fasi di avvicinamento e di reciproca incidenza tra il D. e il fratello Antonio di ritorno da Roma: i punti forti di questo nuovo ed esaltante connubio si riconoscono ovviamente nelle cappelle dei Tribunale di Pilato, o Prima presentazione a Pilato (XXVII), del Palazzo di Erode (XXVIII) e di Pilato che si lava le mani (XXXIV). Morto il fratello Antonio, tra il 1632 C il 1633, la parabola del D. si avviò a una dignitosa accademia, in cui ebbero peso anche gli anni, la dispersione degli impegni e il consistente intervento di modesti collaboratori. li tentativo esperito da G. Testori (Palinsesto Valsesiano, Milano 1964, pp. 26-36) di attribuirgli alcuni disegni valsesiani non ha dato buon esito, trattandosi ormai di disegni di Seicento avanzato (grandi) quando non settecenteschi.</p>
+			
+			<back>
+				<listBibl>
+					<head>Fonti e Bibl.:</head>
+
+					<bibl>
+						<author>P. Galloni</author>, <title type="chapter">I fratelli D'Enrico</title>, in <series>Uomini e fatti celebri in Valle Sesia</series>, <pubplace>Torino</pubplace> <date>1873</date>, pp. 165-169, 177 n. 3; Id.,
+					</bibl>
+
+					<bibl>Sacro Monte di Varallo..., Varallo 1914, pp. 241, 278 ss., 289, 294 s., 297 s., 308, 313, 340-375, 382 (con la maggioranza dei documenti valsesiani);</bibl>>
+					<bibl>A. M. Brizio, G. D., in Atti e mem. del Terzo Congresso piemontese di antichità e d'arte. Congresso di Varallo Sesia, Settembre 1960, Torino s.d. [1962], pp. 109-114;</bibl>> 
+					<bibl>s. Stefani Perrone, La scultura del 1600al Sacro Monte di Varallo, in IlSeicento lombardo. Catalogo dei dipinti e delle sculture, Milano s.d. [1973], pp. 57-60;</bibl>>
+					<bibl>L. Mallè, Le artifigurative in Memonte. Dal sec. XVII al sec. XIX, Torino s. d. [1974], pp. 22 ss.;</bibl>> 
+					<bibl>G. Melzi d'Eril, Sacro Monte d'Orta, in Isola San Giulio e Sacro Monte d'Orta, Torino 1977, pp. 180 ss.;</bibl>> 
+					<bibl>M. Trompetto, Storia del santuario di Oropa, Biella 1978, pp. 263-266, 271, 276, 279-283, 287, 293;</bibl> 
+					<bibl>C. Debiaggi, Sulle date di nascita e di morte di G. D., in Boll. della Soc. piemontese di archeol. e belle arti, XXXII-XXXIV (1978-1980), pp. 129-132;</bibl> 
+					<bibl>F. Cimmino Gibellini, S. Maria delle Grazie a Montrigone ... nel racconto del canonico gaudenziano Giambattista Gibellini, in Boll. stor. per la prov. di Novara, LXXI (1980), 1, pp. 151 s.;</bibl> 
+					<bibl>D. Lebole, Storia della Chiesa biellese. Le pievi di Puliaco, II, Gifflenga, Santhià, Ivrea, Naula, Biella 1980, pp. 314, 317;</bibl> 
+					<bibl>G. C. Sciolla, IlBiellese dal Medioevo all'Ottocento, Torino 1980, pp. 196 s.;</bibl> 
+					<bibl>C. Debiaggi, Un busto di s. Carlo operadi G. D., in Boll. della Soc. piemontese di archeol. ebelle arti, XXXV-XXXVII (1981-1983), pp. 4956;</bibl> 
+					<bibl>G. Romano, in Gaudenzio Ferrari e la suascuola. I cartoni cinquecenteschi dell'Accad. Albertina... (catal. d. mostra), Torino 1982, pp. 265 ss.;</bibl> 
+					<bibl>G. Debiaggi, G. D. al Sacro Monte d'Orta, in LoStrona, VII (1982), ott.-dic., pp. 4-9; M. Bodo-P. P. Viazzo, Notizie biogr. su G. Ferro, G. D. ealtri valsesiani, in Novarien, XIV (1984), p. 232;</bibl> 
+					<bibl>S. Stefani Perrone, G. D. urbanista e architetto alSacro Monte di Varallo in Valsesia, in Fra Rinascimento, manierismo e realtà. Scritti di storia dell'arte in mem. di A. M. Brizio, Firenze 1984, pp. 129-141;</bibl> 
+					<bibl>A. Stoppa-F. Cimmino Gibellini, Il Sacro Monte di Sant'Anna a Montrigone di Borgosesia..., Borgosesia 1984, pp. 24 ss., 95-109;</bibl> 
+					<bibl>G. Testori-S. Stefani Perrone, Artisti del legno. La scultura in Valsesia dal XV al XVIII secolo, Borgosesia 1985, pp. 84 s., 270;</bibl> 
+					<bibl>A. Bossi, Cappella n. 33, Ecce Homo. Nuovi apporti sulla scuola di G. D., in Sacro Monte di Varallo. Quad. di studio, n. 3, Varallo 1986, pp. 13-20; U. Thieme-F. Becker, Künstlerlexikon, XIV, pp. 115 s. (sub voce Giovanni d'Enrico);</bibl> 
+					<bibl>C. Debiaggi, Diz. degli artisti valsesiani, Varallo 1968, pp. 47 ss. (con ampia bibl. precedente).</bibl>
+				</listBibl>
+			</back>
+		</body>
+	</text>
+</TEI>

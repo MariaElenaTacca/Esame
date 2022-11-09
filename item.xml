@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/">
+	<image xmlns:dc="https://upload.wikimedia.org/wikipedia/commons/2/2f/Sacro_Monte_di_Varallo_Fig1.JPG" xml:id="SMV-1">
+		<item xml:id="SMV-1-1">
+				<dc:title>Sacro Monte di Varallo Fig1.JPG</dc:title>
+					<dcterms:alternative>Ecce Homo (detail of the crowd calling for crucifixion), statues by Giovanni d'Enrico, 1608-9, Chapel XXXIII</dcterms:alternative>
+				<dc:creator>Stefano Bistolfi</dc:creator>
+				<dc:creator>Enrico, Giovanni d'. - https://viaf.org/viaf/81925092/</dc:creator>
+				<dc:subject>Riserva naturale speciale del Sacro monte di Varallo (Italy) - https://id.loc.gov/authorities/subjects/sh2008004460.html</dc:subject>
+				<dc:subject>Sculpture - https://id.loc.gov/authorities/subjects/sh85119004.html</dc:subject>
+				<dc:description>Personaggio che partecipa alla folla nella cappella XXXIII (Ecce Homo), scultura terracotta policroma, con aggiunta di dettagli realistici per la peluria. La Cappella era in via di compimento nel 1603. L’ambiente venne impostato scenicamente da Giovanni d’Enrico, creando nella scena due differenti livelli, che in seguito popolerà con varie sculture (1608-1609).</dc:description>
+				<dc:contributor>Tacca, Maria Elena</dc:contributor>
+				<dc:date>2002-09-18</dc:date>
+					<dcterms:created>1608-1609</dcterms:created>
+					<dcterms:available>2007-03-15</dcterms:available>
+				<dc:publisher>Wikipedia</dc:publisher>
+				<dc:type>Image</dc:type>
+				<dc:format>jpeg</dc:format>
+					<dcterms:extent>3,150 × 4,199 (711 KB)</dcterms:extent>
+					<dcterms:medium>Terracotta Policroma</dcterms:medium>
+				<dc:identifier>https://upload.wikimedia.org/wikipedia/commons/2/2f/Sacro_Monte_di_Varallo_Fig1.JPG</dc:identifier>
+				<dc:source>dettaglio Ecce Homo, Cappella XXXIII, Sacro Monte di Varallo Sesia</dc:source>
+				<dc:language>English</dc:language>
+				<dc:relation>https://www.sacromontedivarallo.org/wp/</dc:relation>
+				<dc:relation>https://it.wikipedia.org/wiki/Sacro_Monte_di_Varallo</dc:relation>	
+				<dc:relation>https://www.treccani.it/enciclopedia/giovanni-d-enrico_%28Dizionario-Biografico%29/</dc:relation>
+					<dcterms:isPartOf>Cappella XXXIII, Sacro Monte di Varallo Sesia.</dcterms:isPartOf>
+				<dc:coverage>https://www.geonames.org/maps/wikipedia_45.8186_8.2547.html - Sacro Monte di Varallo Sesia, 45°49′07″N 8°15′17″E - 2002-09-18</dc:coverage>
+					<dcterms:temporal>Wikipedia, 2002-09-18</dcterms:temporal>
+					<dcterms:spatial>Sacro Monte di Varallo Sesia, 45°49′07″N 8°15′17″E - 1608-1609</dcterms:spatial>
+				<dc:rights>CC0 1.0, Public domain</dc:rights>
+		</item>
+	</image>
+</metadata>
