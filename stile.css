@@ -57,8 +57,10 @@ footer{
 	margin-left: 20px;
 	margin-right: 20px;
 }
-.wiki{
+.wiki, .dizio, .vario{
 	text-align: center;
+	margin-left: 30px;
+	margin-right: 30px;
 }
 .tx-colorato{
 	color: green;
@@ -74,4 +76,12 @@ footer{
 }
 .xml{
 	margin-left: 50px;
+}
+.margine{
+	margin-top: 20px;
+	margin-bottom: 5px;
+}
+.imm-lista-3, .imm-persona-7{
+	margin-top: 5px;
+	margin-left: 5px;
 }
